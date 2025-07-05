@@ -1,4 +1,4 @@
-# DSA_PROJECT_ 📊 Amazon Product Review Analysis
+# DSA_PROJECT_ 📊 Amazon Product Review Analysis Report 
 
 **Author:** Obiekezie Precious Chinaza  
 **Role:** Data Analyst  
@@ -157,6 +157,10 @@ Electronics leads with over **$98 billion**.
 > This project reflects the power of data analysis with limited tools, handled entirely on a smartphone platform.
 
 ---
+
+
+
+
 # 📊 Palmora Group HR Analytics Report
 
 **Author:** Obiekezie Precious Chinaza  
