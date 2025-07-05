@@ -294,8 +294,6 @@ Visualizations and pivot tables were used to guide strategic recommendations for
 ---
 
 ## 👤 Analyst Profile
-
-## 📌 Author Info
 **Name:** Obiekezie Precious Chinaza  
 **Email:** precious.obiekezie100@gmail.com 
 **Location:** Kaduna State, Nigeria.
