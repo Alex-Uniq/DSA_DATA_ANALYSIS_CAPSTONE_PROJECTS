@@ -1,4 +1,4 @@
-# DSA_PROJECT_ 📊 Amazon Product Review Analysis Report 
+# DSA_PROJECT_ 📊 Amazon Product Review Analysis Report (Project 1)
 
 **Author:** Obiekezie Precious Chinaza  
 **Role:** Data Analyst  
@@ -148,15 +148,6 @@ Electronics leads with over **$98 billion**.
 
 ---
 
-## 📌 Author Info
-
-**Name:** Obiekezie Precious Chinaza  
-**Email:** precious.obiekezie100@gmail.com 
-**Location:** Kaduna State, Nigeria. 
-
-> This project reflects the power of data analysis with limited tools, handled entirely on a smartphone platform.
-
-
 
 
 ---
@@ -164,7 +155,7 @@ Electronics leads with over **$98 billion**.
 
 
 
-# 📊 Palmora Group HR Analytics Report
+# 📊 Palmora Group HR Analytics Report (Project 2)
 
 **Author:** Obiekezie Precious Chinaza  
 **Role:** HR Data Analyst  
@@ -304,10 +295,10 @@ Visualizations and pivot tables were used to guide strategic recommendations for
 
 ## 👤 Analyst Profile
 
-**Obiekezie Precious Chinaza**  
-_First-Class Biochemistry Graduate_  
-📧 Email: precious.obiekezie100@gmail.com
-📍 Region: Nigeria  
+## 📌 Author Info
+**Name:** Obiekezie Precious Chinaza  
+**Email:** precious.obiekezie100@gmail.com 
+**Location:** Kaduna State, Nigeria.
 
 > This analysis was developed entirely on **mobile (WPS Office)**, showcasing analytical excellence under technical constraints.
 
